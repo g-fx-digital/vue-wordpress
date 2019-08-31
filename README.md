@@ -4,7 +4,7 @@
 
 *This theme is intended to be used as a foundation for creating sites that function as a single-page application (SPA) on the front-end, while using Wordpress and the WP REST API to manage content and fetch data.*
 
-**Check out [a demo of the theme](http://vue-wordpress-demo.bshiluk.com)**
+**Check out [a demo of the theme](https://portfolio.g-fx.ru)**
 
 # Table of Contents
 
